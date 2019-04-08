@@ -1,0 +1,14 @@
+This Codebook will give information on the dataset for the Cleaning Data final project and Run_Analysis.R script. 
+x_train: Training set for the UCI HAR Dataset
+y_train: Training labels for the UCI HAR Dataset
+train_data: combined dataset of x_train and y_train
+y_test: Test set for UCI HAR Dataset
+x_test: Test Labels for UCI HAR Dataset
+test_data: test dataset combined (x_test and y_test)
+Final: combined test and training data to combine one table
+features: Numbers for the activities
+Mean_And_Dev: pulls standard deviation and mean from data
+Final_Data: takes only the columns with the Mean and St. Dev.
+Activity_names: names of activities
+Final_Data: takes the features number designated for the activity and creates a column of the descriptive name of that activity from Activity Names
+these are: Walking, Walking upstairs, Walking Downstairs, Sitting, Standing, Laying. 
