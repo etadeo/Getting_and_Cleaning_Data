@@ -11,4 +11,12 @@ Mean_And_Dev: pulls standard deviation and mean from data
 Final_Data: takes only the columns with the Mean and St. Dev.
 Activity_names: names of activities
 Final_Data: takes the features number designated for the activity and creates a column of the descriptive name of that activity from Activity Names
-these are: Walking, Walking upstairs, Walking Downstairs, Sitting, Standing, Laying. 
+these are: 
+
+Variables include: 
+Walking: Person is walking
+Walking upstairs: Person is walking upstairs
+Walking Downstairs: Person is Walking Downstairs
+Sitting: Person is sitting
+Standing: Person is Standing 
+Laying: Person is Laying 
